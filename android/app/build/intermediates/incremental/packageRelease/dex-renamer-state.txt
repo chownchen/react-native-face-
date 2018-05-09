@@ -1,0 +1,4 @@
+#Wed May 09 11:14:41 CST 2018
+base.0=/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

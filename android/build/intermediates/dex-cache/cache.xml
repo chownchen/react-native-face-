@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_984dff78d43c8b815eab00cf4ef2dd117dfe54bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8447749323a2c715773197f628e92fe14f7a415a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/demo/react-native-fs/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f07d7db6c8370c8b5025d5d2160b72a3214d45d6">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-fs-unspecified_e84a15aa1258ccd3eac73d63edd03af982998991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d95581153213af085c3e6a5837cb8606026948b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b63a90a86f7d78e605ce39625f8c76ffe443fbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7400747fffe5a3da8c19609c6165545ecd02f991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_a52dc1b77d85a937bcb293e05813e3e9d80f59c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_8447749323a2c715773197f628e92fe14f7a415a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d95581153213af085c3e6a5837cb8606026948b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_305b666c14e8717b9f528d4f68ebe889d468feea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_984dff78d43c8b815eab00cf4ef2dd117dfe54bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7400747fffe5a3da8c19609c6165545ecd02f991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_686231134660fc716da600d84d73e8cc75a2ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3ae58cb70df9cdc658d46da38d676c837debe7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_6ec1a21e36565a3c4ccd189e9962586852385e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_defb47048e47683ccb78fccfaec4d9ada950d180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f424c697e164ca3def8834d2e5d3fd9155a1da18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fc6badaaaa92feca5713b5a6f23b1ac940f5ac60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_f71f37898a43d38727a4aa49a240931571300923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_305b666c14e8717b9f528d4f68ebe889d468feea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_0c636b4c10343729ac0e9617af9e5423de43f5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_56224f1740315c108b0c92b9132d74fd71ba8535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_299f90c1ab79c18ab49d20fdf90157efee939186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3ae58cb70df9cdc658d46da38d676c837debe7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_de12c3f7326c419dc685f90aa51f294e2a4006cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_de12c3f7326c419dc685f90aa51f294e2a4006cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fc6badaaaa92feca5713b5a6f23b1ac940f5ac60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_0c636b4c10343729ac0e9617af9e5423de43f5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_086d4078d3274e24e22ad0de3338a23d5af9dd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/demo/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4bc7e4c88d8a58037f153bc224b47da51ae40f2f">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-image-picker-unspecified_1569db481b56e6e699648091668e14564fbadc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/demo/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4bc7e4c88d8a58037f153bc224b47da51ae40f2f">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-image-picker-unspecified_1569db481b56e6e699648091668e14564fbadc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_086d4078d3274e24e22ad0de3338a23d5af9dd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_eacee381df64ba3712f902d22b06c014736736e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_4eb7b46158be50f36c0c076bee1e9a7b4528fca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/demo/react-native-view-shot/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fd9ea7a791c56f345b9958fb620454be10161eff">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-view-shot-unspecified_b150d65cb2614589e5ecb214864b0a7fb687bdc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9170d3db8a16bfb13b3b1c8156c551b6fdb46468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b93112db08f74cb52a06e1b01ed36bd0c044452b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_299f90c1ab79c18ab49d20fdf90157efee939186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e1461db33eacd7b33e709923e2c0b14ae2fc0134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_56224f1740315c108b0c92b9132d74fd71ba8535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/demo/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bb5174a6b6f6568d382262718d65aa55f31b25db">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/demo-react-native-camera-unspecified_56e1124a04205275fdb6db19ad67f181964cb6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f424c697e164ca3def8834d2e5d3fd9155a1da18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b93112db08f74cb52a06e1b01ed36bd0c044452b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_eacee381df64ba3712f902d22b06c014736736e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9170d3db8a16bfb13b3b1c8156c551b6fdb46468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e1461db33eacd7b33e709923e2c0b14ae2fc0134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_4eb7b46158be50f36c0c076bee1e9a7b4528fca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_defb47048e47683ccb78fccfaec4d9ada950d180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_686231134660fc716da600d84d73e8cc75a2ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/chenzhangdong/Desktop/workPlace/xiaomi/demo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_b63a90a86f7d78e605ce39625f8c76ffe443fbd3.jar" />
+    </item>
+
+</items>
